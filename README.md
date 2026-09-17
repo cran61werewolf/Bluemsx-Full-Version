@@ -242,4 +242,4 @@ This repository serves as the official landing page for blueMSX. The software is
 **Get the most recent version of blueMSX today!**
 
 ---
-**Last updated:** 2026-09-16 22:41:38 UTC
+**Last updated:** 2026-09-17 01:07:09 UTC
